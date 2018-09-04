@@ -1,0 +1,8 @@
+name: SimpleKick
+version: ${project.version}
+main: me.glaremasters.simplekick.Simplekick
+authors: [blockslayer22]
+description: SimpleKick
+
+kick:
+  description: kick a player
